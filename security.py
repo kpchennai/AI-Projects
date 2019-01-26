@@ -1,4 +1,4 @@
-# pylint: disable=C,R
+# pylint: disable=C,R,kp
 """A set of constants and methods to manage permissions and security"""
 import logging
 
